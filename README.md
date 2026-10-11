@@ -9,7 +9,7 @@ Fork this repository, add a row in the following table and copy your project’s
 
 | Team Name  | Project Name | Git Repository Link                    | One-line Description                     |
 |------------|--------------|----------------------------------------|------------------------------------------|
-| 少年的羽翼 | Agentorium   | https://github.com/Yosuanru/Agentorium | 本地多Agent长篇小说创作工作台，模拟写手、冷读者、逻辑审协作，检测剧情与设定冲突 |
+| 少年的羽翼 | Agentorium   | https://github.com/Yosuanru/Agentorium | A local multi-agent novel writing workspace, featuring collaboration of writer agents, cold readers and logic reviewers to detect plot and setting conflicts. |
 ---
 
 ## Acknowledgments
