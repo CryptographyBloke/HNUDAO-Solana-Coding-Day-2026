@@ -7,9 +7,9 @@ Fork this repository, add your Git repository link in the following table and co
 
 ### Project List
 
-| Project Name | Git Repository Link | One-line Description |
-| ------------ | ------------------- | -------------------- |
-|              |                     |                      |
+| Team Name | Project Name | Git Repository Link | One-line Description |
+| --------- | ------------ | ------------------- | -------------------- |
+|           |              |                     |                      |
 
 ---
 
