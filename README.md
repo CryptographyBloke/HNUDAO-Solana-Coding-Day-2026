@@ -7,10 +7,9 @@ Fork this repository, add a row in the following table and copy your project’s
 
 ### Project List
 
-| Team Name | Project Name | Git Repository Link | One-line Description |
-| --------- | ------------ | ------------------- | -------------------- |
-|           |              |                     |                      |
-
+| Team Name  | Project Name | Git Repository Link                    | One-line Description                     |
+|------------|--------------|----------------------------------------|------------------------------------------|
+| 少年的羽翼 | Agentorium   | https://github.com/Yosuanru/Agentorium | 本地多Agent长篇小说创作工作台，模拟写手、冷读者、逻辑审协作，检测剧情与设定冲突 |
 ---
 
 ## Acknowledgments
