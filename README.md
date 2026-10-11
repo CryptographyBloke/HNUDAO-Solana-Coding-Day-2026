@@ -9,8 +9,7 @@ Fork this repository, add a row in the following table and copy your project’s
 
 | Team Name | Project Name | Git Repository Link | One-line Description |
 | --------- | ------------ | ------------------- | -------------------- |
-| Paralir Lab          |       AdChain Trust v2.0       |    https://github.com/Paralir/adchain-trust                 |       面向网文广告场景的联盟链可信存证与素材风控系统，提供合同防篡改、侵权素材识别与电子取证能力               |
-
+| Paralir Lab          |       AdChain Trust v2.0       |    https://github.com/Paralir/adchain-trust                 |           面向网文广告场景，基于RSA双签名与哈希链存证，解决三方对账纠纷、合同篡改与素材侵权取证问题           |
 ---
 
 ## Acknowledgments
