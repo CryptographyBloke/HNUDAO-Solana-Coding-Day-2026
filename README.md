@@ -18,6 +18,7 @@ Fork this repository, add a row in the following table and copy your project’s
 | 月下观星 | 链易 (LianYi) | https://github.com/lanxin234/- | 基于区块链的二手交易平台，通过智能合约实现资金链上托管、双向确认与超时仲裁机制 |
 | 栈空间小队 | 元界方舟 (MetaArk World) | https://github.com/Pyu-H/MetaArkWorld | 区块链版「我的世界 + 模拟城市」，涵盖土地 NFT、双代币经济与 5 个自主研发 Solidity 智能合约 |
 | Flag拾荒者小队 | Wish Vault | https://github.com/D-1-1795/demo | 基于 Solana + Anchor 的链上心愿存证程序，将用户心愿文本永久写入链上 PDA 账户形成不可篡改的时间戳存证 |
+| 鸢尾花 | 基于智能合约的聚餐AA收款系统与安全挑战 (SplitPay CTF) | https://github.com/Hugh102200/demo | 基于 Solidity 的聚餐 AA 收款系统及智能合约重入漏洞攻击与防御实战演练 |
 | CGS小队 | final-review-web | https://github.com/akiragyh/final-review-web | 大学生期末考试备考与复习资源整合网页平台 |
 | 集成课表查询队 | HTU_Schedule_Fetcher | https://github.com/Bellarie-cloud/HTU_Schedule_Fetcher | 河南师范大学学生课表自动化登录抓取与桌面查询工具 |
 | Made in China | minichain | https://github.com/Hillary11111/demo | 基于 Node.js 原生内置模块从零实现的区块链：涵盖哈希链、Merkle 树、secp256k1 签名、PoW 与内存池 |
