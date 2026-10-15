@@ -1,6 +1,6 @@
 # HTU_Schedule_Fetcher · 河师大课表查询工具
 
-> 参赛队伍：集成课表查询队 | 提交人：李云瑞
+> 参赛队伍：集成课表查询队
 > 项目仓库：https://github.com/Bellarie-cloud/HTU_Schedule_Fetcher
 
 ## 项目简介

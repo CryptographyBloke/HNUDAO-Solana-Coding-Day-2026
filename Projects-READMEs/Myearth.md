@@ -1,6 +1,6 @@
 # 地球Online (Myearth) · 3D 地球交互与地理坐标点亮平台
 
-> 参赛队伍：配合操作 | 提交人：潘福成
+> 参赛队伍：配合操作
 > 项目仓库：https://github.com/fufu2007-coder/Myearth
 
 ## 项目简介

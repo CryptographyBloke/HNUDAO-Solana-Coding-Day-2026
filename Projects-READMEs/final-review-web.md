@@ -1,6 +1,6 @@
 # final-review-web · 大学生期末复习网页
 
-> 参赛队伍：CGS小队 | 提交人：郭彧涵
+> 参赛队伍：CGS小队
 > 项目仓库：https://github.com/akiragyh/final-review-web
 > 在线体验：https://akiragyh.github.io/final-review-web/
 

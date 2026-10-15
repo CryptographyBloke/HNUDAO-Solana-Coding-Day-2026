@@ -1,6 +1,6 @@
 # 校园链 · 链上校园信誉体系 (CampusChain)
 
-> 参赛队伍：瑟瑟发抖吧 | 提交人：李康硕
+> 参赛队伍：瑟瑟发抖吧
 > 项目仓库：https://github.com/likangshuo888/codingday888
 
 ## 项目简介
