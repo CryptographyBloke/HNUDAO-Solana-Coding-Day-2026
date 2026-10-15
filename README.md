@@ -30,6 +30,7 @@ Fork this repository, add a row in the following table and copy your project’s
 | 集成课表查询队 | HTU_Schedule_Fetcher | https://github.com/Bellarie-cloud/HTU_Schedule_Fetcher | 河南师范大学学生课表自动化登录抓取与桌面查询工具 |
 | Made in China | minichain | https://github.com/Hillary11111/demo | 基于 Node.js 原生内置模块从零实现的区块链：涵盖哈希链、Merkle 树、secp256k1 签名、PoW 与内存池 |
 | 神兵小将队 | 校园学业资料防篡改存证方案 (blockchain-campus-cert) | https://github.com/rxx-stack/demo | 面向高校信息化建设的联盟链存证解决方案，基于 FISCO BCOS 实现学业资料真实性可验证、变更可追溯与隐私保护 |
+| 寻钥小队 | 智购参谋 | https://github.com/hehebb-CMD/xunyao | 面向消费决策的真实评价交叉验证与防刷单存证系统，涵盖六维反作弊、多源交叉验证与哈希链账本存证 |
 | 配合操作 | 地球Online (Myearth) | https://github.com/fufu2007-coder/Myearth | 基于 Next.js 与 Three.js 构建的 3D 地球交互与地理坐标逆解析点亮可视化平台 |
 | 零日访客 | cert-chain-demo | https://github.com/Onlrainy0211/cert-chain-demo | 基于 C++ 模拟区块链的校园证书存证演示系统 |
 
