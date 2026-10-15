@@ -5,6 +5,13 @@ Project submission channel
 
 Fork this repository, add a row in the following table and copy your project’s README into the [Projects-READMEs folder](./Projects-READMEs).
 
+| 项目 | 内容 |
+|------|------|
+| 时间 | 10 月 11 日 |
+| 地点 | 河南师范大学 |
+| 规模 | 16 支队伍 |
+| 形式 | 类黑客松
+|当天完成工具| Coding Agent |
 ### Project List
 
 | Team Name | Project Name | Git Repository Link | One-line Description |
