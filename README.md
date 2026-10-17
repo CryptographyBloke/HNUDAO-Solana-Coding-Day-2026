@@ -9,7 +9,7 @@ Fork this repository, add a row in the following table and copy your project’s
 |------|------|
 | 时间 | 10 月 11 日 |
 | 地点 | 河南师范大学 |
-| 规模 | 16 支队伍 |
+| 规模 | 17 支队伍 |
 | 形式 | 类黑客松
 |当天完成工具| Coding Agent |
 ### Project List
